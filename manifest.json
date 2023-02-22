@@ -8,27 +8,27 @@
     "description":"Best App Ever created By Me",
     "icons":[
         {
-            "src":"assets/image/Icon-48.png",
+            "src":"assests/image/Icon-48.png",
             "sizes":"48x48"
         },
         { 
-            "src":"assets/image/Icon-72.png",
+            "src":"assests/image/Icon-72.png",
             "sizes":"72x72"
         },
         {
-            "src":"assets/image/Icon-96.png",
+            "src":"assests/image/Icon-96.png",
             "sizes":"96x96"
         },
         {
-            "src":"assets/image/Icon-144.png",
+            "src":"assests/image/Icon-144.png",
             "sizes":"144x144"
         },
         {
-            "src":"assets/image/Icon-192.png",
+            "src":"assests/image/Icon-192.png",
             "sizes":"192x192"
         },
         {
-            "src":"assets/image/Icon-512.png",
+            "src":"assests/image/Icon-512.png",
             "sizes":"512x512"
         }
 
