@@ -1,11 +1,11 @@
 {
-    "name":"TIC_TAC_TOE",
+    "name":"Camera Handling",
     "short_name":"Camera",
     "start_url":"/PWA_Camera_Handeling",
     "background_color":"red",
     "theme_color":"coral",
     "display":"standalone",
-    "description":"Best Game Ever created By Me",
+    "description":"Best App Ever created By Me",
     "icons":[
         {
             "src":"assets/images/Icon-48.png",
